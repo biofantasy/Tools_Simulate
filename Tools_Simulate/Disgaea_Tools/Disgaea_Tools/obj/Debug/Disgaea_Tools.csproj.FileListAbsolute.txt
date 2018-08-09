@@ -1,0 +1,7 @@
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\bin\Debug\Disgaea_Tools.exe.config
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\bin\Debug\Disgaea_Tools.exe
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\bin\Debug\Disgaea_Tools.pdb
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\obj\Debug\Disgaea_Tools.csprojAssemblyReference.cache
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\obj\Debug\Disgaea_Tools.csproj.CoreCompileInputs.cache
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\obj\Debug\Disgaea_Tools.exe
+D:\GitProject\Google Drive\gitProject\Disgaea_Tools\Disgaea_Tools\obj\Debug\Disgaea_Tools.pdb
